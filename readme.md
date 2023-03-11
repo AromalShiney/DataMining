@@ -31,7 +31,15 @@ X18-X23: Amount of previous payment (NT dollar). X18 = amount paid in September,
 
 Two datasets are provided to you: a training dataset in the creditdefault_train.csv file, and a test dataset in the creditdefault_test.csv file.
 
-Using Python and any relevant libraries, you are required to build the best predictive model by tuning models using cross validation on the training dataset with each of the following algorithms discussed in this module: k-Nearest Neighbours, Decision Trees, Random Forest, Bagging, AdaBoost, and SVM. Out of the models tuned with the above algorithms, select the best model and clearly justify your choice, and evaluate its performances on the test set.
+Using Python and any relevant libraries, you are required to build the best predictive model by tuning models using cross validation on the training dataset with each of the following algorithms discussed in this module: 
+- [x] k-Nearest Neighbours, 
+- [x] Decision Trees, 
+- [x] Random Forest, 
+- [x] Bagging, 
+- [x] AdaBoost, 
+- [x] and SVM. 
+
+Out of the models tuned with the above algorithms, select the best model and clearly justify your choice, and evaluate its performances on the test set.
 
 The coding, comments and explanations will be provided in your Python Jupyter notebook called Part2, which should include also the results. Moreover, for each algorithm mentioned above, include 1 chart in the notebook illustrating how accuracy of the models vary when you vary the values of one numeric hyperparameter only (at your choice).
 
